@@ -65,7 +65,6 @@ This project analyzes telemetry data collected from multiple Daikibo factories t
 📁 Project Files
 
 * `daikibo-analysis.twbx` → Tableau packaged workbook
-* `dashboard.png` → Dashboard screenshot
 
 🎯 Conclusion
 
